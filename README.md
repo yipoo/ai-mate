@@ -1,6 +1,8 @@
 # AI Mate
 
-![AI Mate Logo](public/logo.png)
+<p align="center">
+  <img src="public/logo.png" alt="AI Mate Logo" width="256" height="256" />
+</p>
 
 AI Mate is a powerful AI copywriting assistant that helps you create engaging content for various social media platforms. Visit our website at [ai-mate.yipoo.com](https://ai-mate.yipoo.com).
 

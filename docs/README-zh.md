@@ -1,6 +1,8 @@
 # AI Mate
 
-![AI Mate 标志](../public/logo.png)
+<p align="center">
+  <img src="../public/logo.png" alt="AI Mate 标志" width="256" height="256" />
+</p>
 
 AI Mate 是一款强大的 AI 文案助手，帮助您为各种社交媒体平台创建吸引人的内容。访问我们的网站：[ai-mate.yipoo.com](https://ai-mate.yipoo.com)。
 
