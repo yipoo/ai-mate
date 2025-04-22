@@ -99,4 +99,8 @@ pnpm start
 
 ## 联系我们
 
-如有任何疑问，请通过 [contact@ai-mate.yipoo.com](mailto:contact@ai-mate.yipoo.com) 与我们联系。 
+如有任何疑问，请通过 [dinglei@liansuo.com](mailto:dinglei@liansuo.com) 与我们联系。
+
+## GitHub 统计
+
+[![GitHub stars](https://img.shields.io/github/stars/yipoo/ai-mate.svg?style=social&label=Star&maxAge=2592000)](https://github.com/yipoo/ai-mate) 

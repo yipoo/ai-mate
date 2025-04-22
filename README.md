@@ -99,4 +99,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-For any inquiries, please reach out to us at [contact@ai-mate.yipoo.com](mailto:contact@ai-mate.yipoo.com).
+For any inquiries, please reach out to us at [dinglei@liansuo.com](mailto:dinglei@liansuo.com).
+
+## GitHub Stats
+
+[![GitHub stars](https://img.shields.io/github/stars/yipoo/ai-mate.svg?style=social&label=Star&maxAge=2592000)](https://github.com/yipoo/ai-mate)
